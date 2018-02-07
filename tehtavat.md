@@ -972,7 +972,7 @@ Generoi uuden puhelintiedon tunniste funktiolla [Math.random](https://developer.
 
 Tee uuden numeron lisäykseen virheiden käsittely. Pyyntö ei saa onnistua, jos
 - nimi tai numero puuttuu
-- lisättävä nimi on jo luettelossa
+- nimi on jo luettelossa
 
 Vastaa asiaankuuluvalla statuskoodilla, liitä vastaukseen mukaan myös tieto, joka kertoo virheen syyn, esim:
 
